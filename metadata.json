@@ -1,0 +1,6 @@
+{
+  "name": "Frontend Unit Testing",
+  "description": "A complete Frontend Unit Testing project using HTML, CSS, JavaScript, Jest, and Testing Library. Features a Student Management Dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
